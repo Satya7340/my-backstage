@@ -4,7 +4,7 @@ To play with this project which has been generated using the command `npx @backs
 include the following plugins:
 
 - k8s: https://backstage.io/docs/features/kubernetes/overview
-- Carbin Cloud Footprint: https://github.com/cloud-carbon-footprint/ccf-backstage-plugin 
+- Carbon Cloud Footprint: https://github.com/cloud-carbon-footprint/ccf-backstage-plugin 
 
 The backend Dockerfile has also been modified (see [commit](https://github.com/halkyonio/my-backstage/commit/2d93a33901128ef78b3ef31906c26c59e6e0bc59)) to install the python mkdocs package able to build locally the documentation.
 
