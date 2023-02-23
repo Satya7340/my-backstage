@@ -20,7 +20,7 @@ To play with it locally, run:
 yarn dev
 ```
 
-When an image is needed locally (kind, minikube, ..., then build it:
+When an image is needed locally (kind, minikube, ...), then build it:
 ```sh
 yarn build-image -t backstage:dev
 kind load docker-image backstage:dev
